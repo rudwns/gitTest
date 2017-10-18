@@ -6,7 +6,8 @@ public class A {
 		System.out.println("DDDDDDDDDDDD");
 		System.out.println("121321321213");
 		System.out.println("one two three four five"); 
-
+		int a = 0;
+		int b = 0;
 	}
 
 }
