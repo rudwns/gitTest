@@ -8,6 +8,7 @@ public class A {
 		System.out.println("one two three four five"); 
 		int a = 0;
 		int b = 0;
+		int c = 0;
 	}
 
 }
